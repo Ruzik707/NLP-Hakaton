@@ -29,8 +29,8 @@
 - **Инфраструктура:** Google Colab, Hugging Face Spaces
 
 ### Метрики & Insights
-- Loss: 0.6 train (val higher — data scarcity).
-- Learnings: Multilingual fine-tune challenges, synthetic data gen ideas.
+- **Loss**: 0.6 train (val higher — data scarcity).
+- **Learnings**: Multilingual fine-tune challenges, synthetic data gen ideas.
 
 ### Ключевые особенности
 1. **Подготовка данных:** Очистка и аугментация датасета
